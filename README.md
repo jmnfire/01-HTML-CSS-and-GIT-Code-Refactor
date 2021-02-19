@@ -2,20 +2,19 @@
 
 ## Description 
 
-Cleaned up code and replaced non-semantics tags with semantics tags.
+Cleaned up code and replaced non-semantic tags with semantic tags.
 
 Homework one.
 
 ## Installation 
 
-NO installation required you can view the page. If you want to look at my code do a git clone or my respository 
+NO installation required you can view the page. If you want to look at my code, do a git clone or my repository. 
 
 [Link to website](https://jmnfire.github.io/01-HTML-CSS-and-GIT-Code-Refactor/)
 
 ## Usage
 
-![screenshot](assets/images/screencapture-file-Users-JovanNixon-Desktop-homework-01-HTML-CSS-and-GIT-Code-Refactor-index-html-2021-02-18-17_37_58.png)
-
+![screenshot](assets/images/screencapture-file-Users-JovanNixon-Desktop-homework-01-HTML-CSS-and-GIT-Code-Refactor-index-html-2021-02-19-10_22_00-NEW.png)
 
 
 ## License 
