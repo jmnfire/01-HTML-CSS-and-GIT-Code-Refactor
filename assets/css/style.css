@@ -15,12 +15,12 @@ header {
     color: #ffffff;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
 header nav {
     list-style-type: none;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
 }
 
 header h1 {
